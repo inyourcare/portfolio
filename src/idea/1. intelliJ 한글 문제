@@ -1,0 +1,4 @@
+IntelliJ - Help -  Edit Custom VM Options...  메뉴 열고  -Dfile.encoding=UTF-8  를 추가하여 해결.
+파일위치는 C:\Users\username\.IntelliJIdea2019.2\config\idea64.exe.vmoption
+
+출처 -> https://www.oops4u.com/2451

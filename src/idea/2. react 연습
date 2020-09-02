@@ -1,0 +1,18 @@
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
+
+# Tip: To test that you have Node.js and npm correctly installed on your machine, you can type node --version and npm --version in a terminal or command prompt.
+
+npm install -g create-react-app
+create-react-app my-app
+cd my-app
+npm start
+
+# New terminal open
+
+# visual studio code
+cd my-app
+code .
+
+# Tip: VS Code supports Auto Save, which by default saves your files after a delay. Check the Auto Save option in the File menu to turn on Auto Save or directly configure the files.autoSave user setting.
+# To debug the client side React code, we'll need to install the Debugger for Chrome extension.
